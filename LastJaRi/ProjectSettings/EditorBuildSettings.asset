@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene_SHJ.unity
+    guid: 2b91169b7c2c8a542b5df0eca27f7acf
+  - enabled: 1
+    path: Assets/Scenes/SampleScene_SHJ_UI.unity
+    guid: a7d95af18caabba4380cc0f97d3a894f
+  - enabled: 1
+    path: Assets/Scenes/JaeHyeokScene.unity
+    guid: d11e9bb03c37fb240bf0a235e3b7da9c
+  - enabled: 1
+    path: Assets/Scenes/MoonScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
